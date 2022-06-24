@@ -4,7 +4,7 @@
 ```
 ## Install Docker,kubeadm,kubelet,kubectl
 
-sudo wget https://raw.githubusercontent.com/lerndevops/labs/master/scripts/installK8S-v1-23.sh -P /tmp
+sudo wget https://raw.githubusercontent.com/Sonal0409/Kubernetes-Setup/master/installK8S-v1-23.sh -P /tmp
 sudo chmod 755 /tmp/installK8S-v1-23.sh
 sudo bash /tmp/installK8S-v1-23.sh
 
